@@ -1,0 +1,14 @@
+.vid{
+	position: absolute;
+	top: 35%;
+	left: 15%;
+	width: 900px;
+	height: 400px;
+
+}
+.t1{
+	position: absolute;
+	font-family: Hello Valentica;
+	font-size: 59px;
+	left: 46%;
+}
